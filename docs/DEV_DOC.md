@@ -1,5 +1,10 @@
+## Connecting the workflow engine
 ![](intergrate_rest.png)
+
+## Architecture
 
 ![](architecture-overview.png)
 
-![](Screenshot from 2022-09-15 01-49-39.png)
+## Engine
+
+![](source_code_service.png)
