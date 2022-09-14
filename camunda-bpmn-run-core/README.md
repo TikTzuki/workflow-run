@@ -1,0 +1,2 @@
+mvn spring-boot:run -Dspring-boot.run.arguments=--spring.config.location=file:/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/configuration/default.yml
+-Dloader.path=/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/configuration/userlib/

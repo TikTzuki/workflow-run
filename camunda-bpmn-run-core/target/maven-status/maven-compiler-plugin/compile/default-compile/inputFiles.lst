@@ -1,0 +1,13 @@
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/property/BpmRunCorsProperty.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/property/BpmRunAdministratorAuthorizationProperties.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/property/BpmRunAuthenticationProperties.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/CamundaBpmRun.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/utils/BpmRunProcessEnginePluginHelper.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/utils/BpmRunLogger.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/BpmRunProcessEngineConfiguration.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/BpmRunDeploymentConfiguration.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/property/BpmRunLdapProperties.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/property/BpmRunProcessEnginePluginProperty.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/BpmRunConfiguration.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/BpmRunRestConfiguration.java
+/home/tik/Desktop/repositories/test_camunda/camunda-bpm-run-7.17.0/camunda-bpmn-run-core/src/main/java/org/camunda/bpm/run/property/BpmRunProperties.java

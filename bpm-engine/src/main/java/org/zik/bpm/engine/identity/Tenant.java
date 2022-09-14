@@ -1,0 +1,18 @@
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+package org.zik.bpm.engine.identity;
+
+import java.io.Serializable;
+
+public interface Tenant extends Serializable
+{
+    String getId();
+    
+    void setId(final String p0);
+    
+    String getName();
+    
+    void setName(final String p0);
+}
